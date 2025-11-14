@@ -6,3 +6,5 @@ Integrantes
 Actividad asignada
 
 * Actividad 2 - Dispararse entre jugadores
+
+Pd: se muestra la vida del jugador en lugar de los disparos recibidos porque se concluyó que es más intuitivo
